@@ -7,33 +7,32 @@ Can you predict how capable each applicant is of repaying a loan? Script based o
 
 ## Examples<br/>
 ### Box Cox Data Transformation<br/>
-before
+before<br/>
 ![](img/box_cox_before.png)
-after
+after<br/>
 ![](img/box_cox_after.png)
-one transformation example
+one transformation example<br/>
 ![](img/box_cox_before_after_amt_annuity.png)
-transformation decision metric
+transformation decision metric<br/>
 ![](img/box_cox_lambda.png)
 ![](img/box_cox_variable_selection.png)
 
-categorical variable profiling
+categorical variable profiling<br/>
 ![](img/categorical_variable_profiling.png)
-correlation between high dimensional data
+correlation between high dimensional data<br/>
 ![](img/correlation_plot.png)
 
-compare class probability of different models using calibration plot
+compare class probability of different models using calibration plot<br/>
 ![](img/calibration%20plot.png)
 
-variable with missing data
-![](img/mv_all.png)
+missing value handling<br/>
 ![](img/mv_original.png)
 ![](img/mv_replaced.png)
 
-principle component
+principle component<br/>
 ![](img/pca.png)
 
-roc curve
+roc curve<br/>
 ![](img/roc.png)
 
 ## Financial Data<br/>
