@@ -7,42 +7,40 @@ Can you predict how capable each applicant is of repaying a loan? Script based o
 
 ## Examples<br/>
 ### Box Cox Data Transformation<br/>
-  before
-  ![](img/box_cox_before.png)
-  after<br/>
-  ![](img/box_cox_after.png)
-  one transformation example<br/>
-![](img/box_cox_before_after_amt_annuity.png)
+before<br/>
+![](img/box_cox_before.png)<br/>
+after<br/>
+![](img/box_cox_after.png)<br/>
+one transformation example<br/>
+![](img/box_cox_before_after_amt_annuity.png)<br/>
 transformation decision metric<br/>
-![](img/box_cox_lambda.png)
-![](img/box_cox_variable_selection.png)
-
+![](img/box_cox_lambda.png)<br/>
+![](img/box_cox_variable_selection.png)<br/>
 categorical variable profiling<br/>
-![](img/categorical_variable_profiling.png)
+![](img/categorical_variable_profiling.png)<br/>
 correlation between high dimensional data<br/>
-![](img/correlation_plot.png)
-
+![](img/correlation_plot.png)<br/>
 compare class probability of different models using calibration plot<br/>
-![](img/calibration%20plot.png)
+![](img/calibration%20plot.png)<br/>
 
 missing value handling<br/>
-![](img/mv_original.png)
-![](img/mv_replaced.png)
+![](img/mv_original.png)<br/>
+![](img/mv_replaced.png)<br/>
 
 principle component<br/>
-![](img/pca.png)
+![](img/pca.png)<br/>
 
 roc curve<br/>
-![](img/roc.png)
+![](img/roc.png)<br/>
 
 ## Financial Data<br/>
-### ER diagram
-![](img/home_credit_default_data_description.png)
+### ER diagram<br/>
+![](img/home_credit_default_data_description.png)<br/>
 
-### File size
-![](img/data_size.png)
+### File size<br/>
+![](img/data_size.png)<br/>
 
-### Variable name
+### Variable name<br/>
   [1] "DAYS_BIRTH"                   "DAYS_EMPLOYED"                "DAYS_REGISTRATION"           
   [4] "DAYS_ID_PUBLISH"              "DAYS_LAST_PHONE_CHANGE"       "SK_ID_CURR"                  
   [7] "**TARGET**"                       "NAME_CONTRACT_TYPE"           "CODE_GENDER"                 
