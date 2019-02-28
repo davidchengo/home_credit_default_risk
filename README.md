@@ -23,14 +23,10 @@ correlation between high dimensional data<br/>
 compare class probability of different models using calibration plot<br/>
 ![](img/calibration%20plot.png)<br/>
 
-missing value handling<br/>
-![](img/mv_original.png)<br/>
-![](img/mv_replaced.png)<br/>
-
-principle component<br/>
+principle components<br/>
 ![](img/pca.png)<br/>
 
-roc curve<br/>
+roc curve example<br/>
 ![](img/roc.png)<br/>
 
 ## Financial Data<br/>
