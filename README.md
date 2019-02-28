@@ -3,8 +3,7 @@ Can you predict how capable each applicant is of repaying a loan? Script based o
 
 ## Data
 1. [Download Data](https://www.kaggle.com/c/home-credit-default-risk/data)
-2. Put all extracted data files into a folder called input, which should be on the same directory as the R script.
-3. Follow inline comments to execute the script line by line and check the outputs. 
+2. Place extracted data files into a folder called *input*, which should be on the same directory as the R script.
 
 ## Examples<br/>
 ### Census Data<br/>
