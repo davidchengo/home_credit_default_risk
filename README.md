@@ -1,13 +1,10 @@
 # Home Credit Default Risk
-Can you predict how capable each applicant is of repaying a loan?
+Can you predict how capable each applicant is of repaying a loan? Script based on book "Applied Predictive Modeling" and [Bruce's Work](https://inclass.kaggle.com/moizzz/applied-predictive-modelling-brief-overview)
 
-## Description<br/>
-# Script based on book "Applied Predictive Modeling" and [Bruce's Work](https://inclass.kaggle.com/moizzz/applied-predictive-modelling-brief-overview)
-# 
-# 1. Data Download:
-# https://www.kaggle.com/c/home-credit-default-risk/data
-# 2. Put all extracted data files into a folder called input, which should be on the same directory as the R script.
-# 3. Follow inline comments to execute the script line by line and check the outputs. 
+## Data
+1. [Download Data](https://www.kaggle.com/c/home-credit-default-risk/data)
+2. Put all extracted data files into a folder called input, which should be on the same directory as the R script.
+3. Follow inline comments to execute the script line by line and check the outputs. 
 
 ## Examples<br/>
 ### Census Data<br/>
