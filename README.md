@@ -7,11 +7,11 @@ Can you predict how capable each applicant is of repaying a loan? Script based o
 
 ## Examples<br/>
 ### Box Cox Data Transformation<br/>
-before<br/>
-![](img/box_cox_before.png)
-after<br/>
-![](img/box_cox_after.png)
-one transformation example<br/>
+  before
+  ![](img/box_cox_before.png)
+  after<br/>
+  ![](img/box_cox_after.png)
+  one transformation example<br/>
 ![](img/box_cox_before_after_amt_annuity.png)
 transformation decision metric<br/>
 ![](img/box_cox_lambda.png)
