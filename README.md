@@ -6,22 +6,44 @@ Can you predict how capable each applicant is of repaying a loan? Script based o
 2. Place extracted data files into a folder called *input*, which should be on the same directory as the R script.
 
 ## Examples<br/>
-### Census Data<br/>
-![](img/data.PNG)
+### Box Cox Data Transformation<br/>
+before
+![](img/box_cox_before.png)
+after
+![](img/box_cox_after.png)
+one transformation example
+![](img/box_cox_before_after_amt_annuity.png)
+transformation decision metric
+![](img/box_cox_lambda.png)
+![](img/box_cox_variable_selection.png)
 
-### Map View and NLP Search by Word Similarity<br/>
-![](img/Screenshot%202019-02-22%2010.34.54.png)
+categorical variable profiling
+![](img/categorical_variable_profiling.png)
+correlation between high dimensional data
+![](img/correlation_plot.png)
 
-### Text Cloud of Words in Census Variable Names<br/>
-![](img/tagcloud.PNG)
+compare class probability of different models using calibration plot
+![](img/calibration%20plot.png)
 
-### Wordle of Words in Census Variable Names<br/>
-![](img/wordle.PNG)
+variable with missing data
+![](img/mv_all.png)
+![](img/mv_original.png)
+![](img/mv_replaced.png)
 
-### Hackathon Result (3/30 in ranking)<br/>
-![](img/Screenshot%202019-02-22%2010.32.51.png)
+principle component
+![](img/pca.png)
 
-## Financial Variables<br/>
+roc curve
+![](img/roc.png)
+
+## Financial Data<br/>
+### ER diagram
+![](img/home_credit_default_data_description.png)
+
+### File size
+![](img/data_size.png)
+
+### Variable name
   [1] "DAYS_BIRTH"                   "DAYS_EMPLOYED"                "DAYS_REGISTRATION"           
   [4] "DAYS_ID_PUBLISH"              "DAYS_LAST_PHONE_CHANGE"       "SK_ID_CURR"                  
   [7] "**TARGET**"                       "NAME_CONTRACT_TYPE"           "CODE_GENDER"                 
